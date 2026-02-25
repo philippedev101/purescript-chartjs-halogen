@@ -1,0 +1,8 @@
+{
+  "name": "purescript-chartjs-halogen",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "chart.js": "^4.4.8"
+  }
+}
