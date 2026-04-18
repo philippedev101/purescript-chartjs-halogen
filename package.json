@@ -4,5 +4,8 @@
   "type": "module",
   "dependencies": {
     "chart.js": "^4.4.8"
+  },
+  "devDependencies": {
+    "jsdom": "^29.0.2"
   }
 }
